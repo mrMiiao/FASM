@@ -1,3 +1,3 @@
-# FASM Dev Pack Setup
+# Flat Assembler Developer Pack Setup
 
-Download, install and code)
+Download, install, code.
